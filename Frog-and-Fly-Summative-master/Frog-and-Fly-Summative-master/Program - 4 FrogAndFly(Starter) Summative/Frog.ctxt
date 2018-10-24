@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ 10\ marks\r\n
+comment1.params=
+comment1.target=Frog()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ movement()
+comment3.text=\r\n\ movement\ is\ what\ makes\ the\ Frog\ move\ by\ the\ computer,\ it\ turns\ 35%\ of\ \r\n\ the\ time\ and\ then\ moves\ forward.\ If\ it\ touches\ the\ Fly,\ it\ then\ removes\r\n\ it\ from\ the\ world.\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ it\ does\ not\ return\ anything\r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment1.text=\r\n\ Beach\ is\ the\ background\ of\ this\ game,\ it\ is\ the\ area\ that\ the\ Fly,\ Frog\ and\ the\ Fruit.\ It\ adds\ the\ fruit,\ fly\ and\ frog\ and\ \r\n\ scoreboard\ \r\n\ \r\n\ @param\ None\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ is\ the\ method\ that\r\n\ runs\ during\ every\ act\ cycle\r\n\ of\ the\ scenario\r\n\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ update()
+comment3.text=\r\n\ Update\ updates\ the\ scoreboard\ on\ the\ screen\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ \\@return\ Nothing\ is\ returned\r\n
+comment4.params=n
+comment4.target=void\ addFood(int)
+comment4.text=\r\n\ Adds\ n\ Food\ objects\ to\ the\ world\r\n
+numComments=5
